@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: web development & Digital Marketing<br>👯 I’m looking to collaborate on: open-source web development projects<br>🌱 I’m currently learning: advanced concepts in JavaScript<br>💬 Ask me about: my favorite web development tools<br>⚡ Fun fact: I find solace in spirituality & Music
+🔭 I’m currently working on: web development & Digital Marketing<br>👯 I’m looking to collaborate on: open-source web development projects<br>🌱 I’m currently learning: PHP<br>💬 Ask me about: my favorite web development tools<br>⚡ Fun fact: I find solace in spirituality & Music
 
 
 ## 🌐 Socials:
